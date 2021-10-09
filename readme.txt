@@ -1,7 +1,5 @@
 使い方
-1．ffmpeg-*.*.*-win64-static.zip をダウンロードしてきて展開する
-	例えば https://ffmpeg.zeranoe.com/builds/ 
-	Version は上から 2 個目の項目（Release builds）がおすすめ
+1．ffmpeg-*.*.*-win64-static.zip をダウンロードしてきて展開する。
 2．<展開先フォルダ>\ffmpeg-*.*.*-win64-static\bin にパスを通す
 3．変換したいファイルをバッチファイルまでドラッグアンドドロップする
 4．処理が終わったらできあがり
